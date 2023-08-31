@@ -18,7 +18,7 @@ This information display is the easiest way to access live news and weather in a
 4. The news section utilies the newscatcher.com API which provides live news based on a keyword. It scrolls through the screen continously.
 
 
-##How to Use
+## How to Use
 1. Java JDK 17 needs to be installed to run the program.
 2. Simply input a city code from openweathermap.org/city. (Ex. 5913490 for Calgary, Alberta), & input a keyword for news.
 3. Click login!
