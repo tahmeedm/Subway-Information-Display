@@ -6,11 +6,12 @@ This information display is the easiest way to access live news and weather in a
 
 ## Key Features
 1. The login screen prompts the user for a 'City Code' from openweathermap.org for live weather in that city & a keyword which can be any word and the news will display news related to that keyword.
+   
 ![logingui](https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/7a1a4051-0992-4d9d-be1b-bfbe8fa6bf1e)
 
-2. Once the "login" button is pressed, there are three generated GUI sections: Advertisements(top left), Weather(top right) &  News(bottom).
+3. Once the "login" button is pressed, there are three generated GUI sections: Advertisements(top left), Weather(top right) &  News(bottom).
 
-3. The weather section parses the HTML file of openweathermap.org using regular expressions & synchronizes the weather icons to the city's live weather. (Ex. snowy days display a snowflake, cloudy days show sun with clouds, etc.):
+4. The weather section parses the HTML file of openweathermap.org using regular expressions & synchronizes the weather icons to the city's live weather. (Ex. snowy days display a snowflake, cloudy days show sun with clouds, etc.):
 
 ![carbon](https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/e6347897-04e4-45d0-8529-fa43fd2b0f64)
 
