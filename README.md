@@ -13,7 +13,7 @@ This information display is the easiest way to access live news and weather in a
 ![IMG-5114](https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/26dc3736-b67e-4831-950e-4442c34c5481)
 
 
-Here is a demo with working weather, time, humidy, wind speed, ads, & will be updated with news once News API is working:
+Here is a demo with working weather, time, humidy, wind speed, ads rotating every 10 seconds, & will be updated with news once News API is working:
 
 https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/7de993a0-d38b-4c2a-964c-9a5fcb210a93
 
