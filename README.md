@@ -15,9 +15,7 @@ This information display is the easiest way to access live news and weather in a
 
 Here is a demo with working weather, time, humidy, wind speed, ads, & will be updated with news once News API is working.
 
-
-
-
+https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/7de993a0-d38b-4c2a-964c-9a5fcb210a93
 
 3. The weather section parses the HTML file of openweathermap.org using regular expressions & synchronizes the weather icons to the city's live weather. (Ex. snowy days display a snowflake, cloudy days show sun with clouds, etc.):
 
@@ -28,5 +26,5 @@ Here is a demo with working weather, time, humidy, wind speed, ads, & will be up
 
 ## How to Use
 1. Java JDK 17 needs to be installed to run the program.
-2. Simply input a city code from openweathermap.org/city. (Ex. 5913490 for Calgary, Alberta), & input a keyword for news.
+2. Simply input a city code from openweathermap.org/city. (Ex. 5913490 for Calgary, Alberta), & input a keyword(any word you like) for news.
 3. Click login!
