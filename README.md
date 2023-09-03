@@ -10,12 +10,10 @@ This information display is the easiest way to access live news and weather in a
 
 2. Once the "login" button is pressed, there are three generated GUI sections: Advertisements(top left), Weather(top right) &  News(bottom). UPDATE:(Sept 3, 2023: Right now, the News Catcher API is not sending API links, but the news would scroll on the screen, picture for reference.)
    
-![IMG-5138](https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/9b7ef87b-2bed-4c4c-a93e-c49d326a125b)
+![IMG-5114](https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/26dc3736-b67e-4831-950e-4442c34c5481)
+
 
 Here is a demo with working weather, time, humidy, wind speed, ads, & will be updated with news once News API is working.
-
-
-
 
 
 
