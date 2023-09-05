@@ -19,7 +19,7 @@ https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/609b2e81
 
 ![carbon](https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/e6347897-04e4-45d0-8529-fa43fd2b0f64)
 
-4. The news section utilizes the newscatcher.com API which provides live news based on a keyword. It scrolls through the screen continously.
+4. The news section utilizes the newscatcher.com API which provides live news based on a keyword. It scrolls through the screen continously using www.newscatcherapi.com.
 
 
 ## How to Use
