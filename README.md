@@ -9,13 +9,11 @@ This information display is the easiest way to access live news and weather in a
 ![logingui](https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/7a1a4051-0992-4d9d-be1b-bfbe8fa6bf1e)
 
 2. Once the "login" button is pressed, there are three generated GUI sections: Advertisements(top left), Weather(top right) &  News(bottom). UPDATE:(Sept 3, 2023: Right now, the News Catcher API is not sending API links, but the news would scroll on the screen, picture for reference.)
-   
-![IMG-5114](https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/26dc3736-b67e-4831-950e-4442c34c5481)
 
 
-Here is a demo with working weather, time, humidy, wind speed, ads rotating every 10 seconds, & will be updated with news once News API is working:
+Here is a demo with working weather, time, humidy, wind speed, ads rotating every 10 seconds, and news scrolling on the screen.
 
-https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/7de993a0-d38b-4c2a-964c-9a5fcb210a93
+https://github.com/tahmeedm/Subway-Information-Display/assets/113798776/609b2e81-e2a6-462a-96a4-d222d3af7299
 
 3. The weather section parses the HTML file of openweathermap.org using regular expressions & synchronizes the weather icons to the city's live weather. (Ex. snowy days display a snowflake, cloudy days show sun with clouds, etc.):
 
